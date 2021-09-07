@@ -17,11 +17,11 @@
     }
   },
   "peerDependencies": {
-    "@magento/pwa-buildpack": "^5.1.0-beta.2"
+    "@magento/pwa-buildpack": "~10.0.0"
   },
   "devDependencies": {
     "enhanced-resolve": "^4.1.1",
-    "@magento/pwa-buildpack": "^5.1.0-beta.2"
+    "@magento/pwa-buildpack": "~10.0.0"
   },
   "bugs": {
     "url": "https://github.com/fooman/venia-ui-override-resolver/issues"
